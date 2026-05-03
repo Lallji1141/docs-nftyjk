@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-jtiekr.colowinrtpambyar.com/sitemap.xml
